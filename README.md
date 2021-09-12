@@ -1,16 +1,28 @@
 # se_todo_app
 
-A new Flutter application.
+A flutter project which helps oine keep track of their activities they want be able to do.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Clone the project
 
-A few resources to get you started if this is your first Flutter project:
+```
+git clone https://github.com/joshuamdeguzman/semaphoreci_flutter_demo
+```
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Yo can also download the prtoject zip folder
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Setup
+
+1.Install dependencies
+
+```
+flutter packages get
+```
+2. Run the project
+
+```
+flutter run
+```
+
