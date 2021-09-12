@@ -1,6 +1,6 @@
 # se_todo_app
 
-A flutter project which helps oine keep track of their activities they want be able to do.
+A flutter project which helps one keep track of their activities they want be able to do.
 
 ## Getting Started
 
@@ -26,3 +26,4 @@ flutter pub get
 flutter run
 ```
 
+Joshua M.🙇‍♂️
