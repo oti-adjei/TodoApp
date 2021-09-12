@@ -18,7 +18,7 @@ Yo can also download the prtoject zip folder
 1.Install dependencies
 
 ```
-flutter packages get
+flutter pub get
 ```
 2. Run the project
 
