@@ -26,4 +26,10 @@ flutter pub get
 flutter run
 ```
 
+3.Run the unit tests
+
+```
+flutter test test
+```
+
 Joshua M.🙇‍♂️
